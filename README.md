@@ -1,5 +1,4 @@
-# Cub Uikit v2
-
+# This is KucoinSwap Uikit
 Based on [pancakeswap's uikit](https://www.npmjs.com/package/@pancakeswap-libs/uikit).
  
 ## How to use the UIkit
