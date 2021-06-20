@@ -1,4 +1,4 @@
-# This is KcsSwap Uikit
+# This is KsFSwap Uikit
 Based on [pancakeswap's uikit](https://www.npmjs.com/package/@pancakeswap-libs/uikit).
  
 ## How to use the UIkit
