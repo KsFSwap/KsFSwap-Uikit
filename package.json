@@ -1,14 +1,14 @@
 {
-  "name": "@pancakeswap-libs/uikit",
+  "name": "ksfswapuikit",
   "version": "0.29.2",
-  "description": "Set of UI components for pancake projects",
+  "description": "Set of UI components for KsfSwap projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/KrNel/krnel-uikit",
+  "repository": "https://github.com/ksfswap/ksfswap-uikit",
   "license": "MIT",
   "scripts": {
     "rmDistWin": "rmdir /s /q dist",
