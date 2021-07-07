@@ -1,7 +1,6 @@
-# KsfSwap Finance Uikit
-It's Based on [pancakeswap's uikit](https://www.npmjs.com/package/ksfswapuikit).
+![ksfswap-uikit](https://github.com/KsFSwap/ksfswap-uikit/blob/main/KsFswapUikit.png)
  
-KsfSwap UIkit is a set of React components and hooks used to build pages on KsfSwap's apps. It also contains a theme file for dark and light mode.
+KsfSwap Uikit is a set of React components and hooks used to build pages on KsfSwap's apps. It also contains a theme file for dark and light mode.
 
 ## Install
 
